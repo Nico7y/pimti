@@ -1,6 +1,6 @@
 CSHARP É MELHOR QUE JAVA.
-C# TEM OS MELHORES FRAMEWORKS.
-
+C# TEM OS MELHORES FRAMEWORKS:
+ASP.NET Core, EF CORE,XUnit, NUnit
 Java vs C#: A Batalha Épica dos Titãs da Programação
 No canto verde, com seus dreadlocks de código e aura de sabedoria ancestral, está o poderoso Java!
 
